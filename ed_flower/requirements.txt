@@ -4,3 +4,8 @@ mysqlclient
 torch
 pillow
 numpy
+opencv-python
+pandas
+requests
+pyyaml
+tqdm
